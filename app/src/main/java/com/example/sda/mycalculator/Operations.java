@@ -4,7 +4,7 @@ package com.example.sda.mycalculator;
  * Created by sda on 13.05.17.
  */
 
-public class Operations implements Variables {
+public  class Operations implements Variables {
 
     @Override
     public float add(float a, float b) {
